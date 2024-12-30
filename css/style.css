@@ -568,27 +568,27 @@ header.sticky .nav-bar {
 }
 
 .bar .html:before {
-    width: 95%;
+    width: 100%;
 
 }
 
 .bar .css:before {
-    width: 75%;
+    width: 100%;
 
 }
 
 .bar .javascript:before {
-    width: 85%;
+    width: 100%;
 
 }
 
 .bar .angular:before {
-    width: 70%;
+    width: 100%;
 
 }
 
 .bar .nodejs:before {
-    width: 40%;
+    width: 100%;
 
 }
 
